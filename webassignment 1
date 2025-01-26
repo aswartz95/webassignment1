@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Story</title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Our Story</h1>
+  </header>
+
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <article>
+      <h2>About Our Journey</h2>
+      <p>Welcome to our story. We’ve been building our dreams one step at a time.</p>
+    </article>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <figure>
+      <img src="assets/our-story.jpg" alt="Our Story">
+      <figcaption>The beginning of our journey.</figcaption>
+    </figure>
+  </section>
+
+  <aside>
+    <p>Did you know? This page is built using HTML5 standards.</p>
+  </aside>
+
+  <footer>
+    <p>&copy; 2025 Our Story. All rights reserved.</p>
+  </footer>
+</body>
+</html>
